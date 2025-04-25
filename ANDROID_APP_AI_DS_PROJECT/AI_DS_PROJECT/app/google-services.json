@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "228513430198",
+    "project_id": "ai-ds-project-b2794",
+    "storage_bucket": "ai-ds-project-b2794.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228513430198:android:01b31268f7eddf0bd04417",
+        "android_client_info": {
+          "package_name": "com.example.ai_ds_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5ai3174D4hN6ag0sVmvn2mhjEpTICpcI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
