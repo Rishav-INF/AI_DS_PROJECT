@@ -25,23 +25,17 @@ A web-based **image classification tool** built with **TensorFlow** and **Stream
 
 ### 🔧 Local Installation
 
-1. **Clone the repository**  
-   Clone this repo to your local machine:
-   ```bash
-   git clone https://github.com/Rahul2201020931/AI-Real-Image-Detector.git
-   cd your-repo-name
-   ```
 
-2. **Install dependencies**  
+1. **Install dependencies**  
    Install the necessary Python libraries:
    ```bash
    pip install -r requirements.txt
    ```
 
-3. **Download or add the model**  
+2. **Download or add the model**  
    The model is required for predictions. If not included in this repo, [download it from here](#) and place it inside the `model/` folder.
 
-4. **Run the Streamlit app**  
+3. **Run the Streamlit app**  
    Launch the application:
    ```bash
    streamlit run app.py
@@ -70,19 +64,5 @@ A web-based **image classification tool** built with **TensorFlow** and **Stream
 └── model/
     └── AI_IMAGE_DETECTOR_full_model(DEEP).h5  # Pre-trained model (if available)
 ```
-
----
-
-## 🌐 Live Demo 
-
-> You can also try the live version hosted on Hugging Face Spaces:
-> [🔗 Try the app](https://huggingface.co/spaces/VIVEK00018/AI-generated_image_detector)
-
----
-
-## 🙌 Author
-
-Created by [Vivek kumar Manjhi](https://github.com/beingcodervivek)  
-Made with ❤️ for AI research and DeepFake awareness.
 
 ---
