@@ -1,3 +1,6 @@
+h5 model available as a version V.0.1
+
+
 # AI & Real Image Detector (DeepFake Classifier)
 
 A web-based **image classification tool** built with **TensorFlow** and **Streamlit** to detect whether an image is **REAL** or **AI-generated (DeepFake)**. This application uses a pre-trained Convolutional Neural Network (CNN) model to analyze and classify images with high accuracy.
