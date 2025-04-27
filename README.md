@@ -25,28 +25,6 @@ A web-based **image classification tool** built with **TensorFlow** and **Stream
 
 ---
 
-## 📦 Setup Instructions
-
-### 🔧 Local Installation
-
-
-1. **Install dependencies**  
-   Install the necessary Python libraries:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-2. **Download or add the model**  
-   The model is required for predictions. If not included in this repo, [download it from here](#) and place it inside the `model/` folder.
-
-3. **Run the Streamlit app**  
-   Launch the application:
-   ```bash
-   streamlit run app.py
-   ```
-
----
-
 ## 🧠 Model Information
 
 - **Model File**: `AI_IMAGE_DETECTOR_full_model(DEEP).h5`
